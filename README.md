@@ -6,6 +6,10 @@ Proyek ini mengembangkan dua sistem klasifikasi gambar hewan berbasis pembelajar
 
 ### 📊 **Studi Kasus 1: Reptiles & Amphibians**
 
+### 📁 **Dataset**
+Dataset hewan **Reptil** dan **Amfibi** yang digunakan dalam proyek ini tersedia di Kaggle:  
+🔗 [Sea Animals Image Dataset (Kaggle)](https://www.kaggle.com/datasets/vencerlanz09/reptiles-and-amphibians-image-dataset)
+
 Klasifikasi dilakukan terhadap 10 kelas hewan: *Salamander, Turtle/Tortoise, Frog, Lizard, Toad, Crocodile/Alligator, Iguana, Snake, Chameleon, dan Gecko*. Proses meliputi:
 
 * **Preprocessing**: Konversi gambar ke format standar (RGB, resize).
@@ -21,6 +25,10 @@ Klasifikasi dilakukan terhadap 10 kelas hewan: *Salamander, Turtle/Tortoise, Fro
 ---
 
 ### 🌊 **Studi Kasus 2: Sea Animal Classification (ResNet50)**
+
+### 📁 **Dataset**
+Dataset **hewan laut** yang digunakan dalam proyek ini tersedia di Kaggle:  
+🔗 [Sea Animals Image Dataset (Kaggle)](https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste)
 
 Dataset berisi gambar hewan laut dari berbagai kelas, diklasifikasikan menggunakan deep learning berbasis **transfer learning** dengan arsitektur ResNet50. Kelas-kelas dalam dataset ini mencakup 23 jenis hewan laut, antara lain: *Clams, Corals, Crabs, Dolphin, Eel, Fish, Jelly Fish, Lobster, Nudibranchs, Octopus, Otter, Penguin, Puffers, Sea Rays, Sea Urchins, Seahorse, Seal, Sharks, Shrimp, Squid, Starfish, Turtle_Tortoise, dan Whale*.  Prosesnya mencakup:
 
