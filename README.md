@@ -8,7 +8,7 @@ Proyek ini mengembangkan dua sistem klasifikasi gambar hewan berbasis pembelajar
 
 ### 📁 **Dataset**
 Dataset hewan **Reptil** dan **Amfibi** yang digunakan dalam proyek ini tersedia di Kaggle:  
-🔗 [Sea Animals Image Dataset (Kaggle)](https://www.kaggle.com/datasets/vencerlanz09/reptiles-and-amphibians-image-dataset)
+🔗 [Reptiles and Amphibians Dataset (Kaggle)](https://www.kaggle.com/datasets/vencerlanz09/reptiles-and-amphibians-image-dataset)
 
 Klasifikasi dilakukan terhadap 10 kelas hewan: *Salamander, Turtle/Tortoise, Frog, Lizard, Toad, Crocodile/Alligator, Iguana, Snake, Chameleon, dan Gecko*. Proses meliputi:
 
